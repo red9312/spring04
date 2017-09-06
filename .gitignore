@@ -1,11 +1,11 @@
 .classpath
+.git
 .project
-.settings
-src
+.settings/
 target
+*.log
 
 .cache-main
 .cache-tests
 
-*.log
 .springBeans
